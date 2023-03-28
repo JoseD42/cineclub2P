@@ -1,0 +1,117 @@
+.grande{
+    background-color:#001E61;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+h1{
+    float: center;
+    color: white;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+    padding-right: 10%;
+    padding-top: 1%;
+    justify-content: center;
+}
+
+.logo{
+    float: left;
+    width: 150px;
+    margin-bottom: 1%;
+    margin-left:0.5%;
+}
+
+
+.plus{
+    margin-top: 120px;
+    margin-bottom: 120px;
+    margin-left: 115px;
+    margin-right: 115px;
+
+}
+
+.btnmas{
+    font-size: 120px;
+    background-color: inherit;
+    border: none;
+}
+
+.carta1{
+    float: left;
+    padding-left: 5%;
+    padding-right: 4%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.txtbajo{
+    padding-top: 1%;
+}
+
+.carta2{
+    float: right;
+    padding-right: 4%;
+    padding-top: 3%;
+}
+
+.margenint{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.completo2{
+    width: 900px;
+}
+
+.form-label{
+    color: #707070;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+}
+
+h6{
+    color: #707070;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+
+.texto{
+    padding-left: 30%;
+    justify-content: center;
+}
+
+.fecha{
+    margin-left: 19%;
+}
+
+.botones{
+    padding-top: 3%;
+}
+
+h5{
+    color: white;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+}
+
+h7{
+    color: white;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+}
+
+.agregarbtn{
+    background-color: #001E61;
+    padding: 5px 45px;
+    float: right;
+}
+
+.btn-sm{
+    background-color: #CE0E2D;
+    padding: 5px 45px;
+}
+
+.btnmargin{
+    padding-left: 60%;
+    padding-top: 2.5%;
+}
+

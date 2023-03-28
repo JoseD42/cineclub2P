@@ -1,0 +1,53 @@
+body{
+    background-color: #006491;
+}
+
+.logo{
+    width: 170px;
+    margin-top:0%;
+    margin-left:0.5%;
+}
+
+.grande{
+    background-color:#001E61;
+    height: 80px;
+}
+
+h1{
+    color: white;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+    padding-top: 2.5%;
+}
+
+.login{
+    background-color: white;
+    width: 500px;
+    height: 550px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.usuario{
+    margin-top: 10%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.psw{
+    margin-top: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+.btnlogin{
+    margin-top: 2%;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 60px;
+}

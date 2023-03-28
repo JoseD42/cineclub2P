@@ -1,0 +1,97 @@
+.grande{
+    background-color:#001E61;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.btn-sm{
+    border: none;
+    background-color: #CE0E2D;
+    cursor: pointer;
+    display: inline-block;
+}
+
+h1{
+    float: center;
+    color: white;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+    padding-right: 10%;
+    padding-top: 1%;
+    justify-content: center;
+}
+
+.logo{
+    float: left;
+    width: 150px;
+    margin-bottom: 1%;
+    margin-left:0.5%;
+}
+
+h5{
+    font-size: 25px;
+    color: #707070;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+
+.tabla {
+    padding-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    float: left;
+}
+
+.genero {
+    border: 1px solid #000000;
+} 
+
+.primera {
+    border: 1px solid #000000;
+    border-right: 0px;
+} 
+
+.col-sm-4{
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-left: 1px solid #000000;
+    height: 40px;
+}
+
+.col-sm-1{
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    justify-content: center;
+}
+
+#vacio{
+    border-bottom: 1px solid #000000;
+    border-right: 0px;
+}
+
+.borrar{
+    background-color: #CE0E2D;
+}
+
+.form-group{
+    float: right;
+    padding-top: 20%;
+    padding-right: 10%;
+    width: 30%;
+}
+
+.texto{
+    color: #707070;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.btn-group-lg{
+    float: right;
+    background-color: inherit;
+    padding: 5px 45px;
+    color: #707070;
+    font-family: 'Indivisa' Arial, Helvetica, sans-serif;
+}
